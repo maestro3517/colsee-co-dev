@@ -7,8 +7,8 @@ const Logo: React.FC = () => {
       <Image
         src="https://assets.co.dev/96f77038-8ef2-4350-be52-4912f83b3206/colsee-logo-6287e90.png"
         alt="Colsee Paints Logo"
-        width={250}
-        height={85}
+        width={150}
+        height={25}
         priority
         className="object-contain"
       />
